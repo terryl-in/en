@@ -17,7 +17,7 @@ In this tutorial I'll show you how to install the latest version of PHP on Ubunt
 
 <h3>Install via Proviscript</h3>
 
-Proviscript php-fpm.sh is hosted on a stable storage provied by GitHub pages, just two line of command in this approach. Directly install PHP-FPM 7.2.9 on your Unbun 16.04 server.
+Proviscript php-fpm.sh is hosted on a stable storage provied by GitHub pages, just two line of command in this approach. Directly install PHP-FPM 7.2.9 on your Unbunto 16.04 server.
 
 <pre><code class="">wget https://cdn.proviscript.sh/components/ubuntu_16.04/php-fpm.sh
 ./php-fpm.sh -v 7.2
@@ -25,4 +25,7 @@ Proviscript php-fpm.sh is hosted on a stable storage provied by GitHub pages, ju
 
 <h3>Install step by step</h3>
 
-sudo apt-get install software-properties-common
+<pre><code class="">sudo apt-get install software-properties-common
+</code></pre>
+
+Not done yet. I go sleep... zzzz
