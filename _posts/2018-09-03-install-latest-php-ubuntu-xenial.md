@@ -1,18 +1,16 @@
 ---
 ID: 17
 post_title: >
-  Install The latest version of PHP 7.2.9
-  on Ubuntu 16.04 (Xenial)
+  Install The latest version of PHP
+  (7.2.9) on Ubuntu 16.04 Xenial
 author: Terry Lin
 post_excerpt: ""
 layout: post
 permalink: >
-  https://terryl.in/en/install-php-ubuntu-xenial/
+  https://terryl.in/en/install-latest-php-ubuntu-xenial/
 published: true
 post_date: 2018-09-03 03:49:21
 ---
-<h1>Install The latest version of PHP (7.2.9) on Ubuntu 16.04 Xenial</h1>
-
 <h2>Introduction</h2>
 
 In this tutorial I'll show you how to install the latest version of PHP on Ubuntu 16.04. All the steps in this tutorial has been written as a bash shell script <a href="https://github.com/Proviscript/proviscript/blob/master/components/ubuntu_16.04/php-fpm.sh">php-fpm.sh</a> and is being a component of my project called <a href="https://proviscript.sh/" title="Proviscript.sh">proviscript</a>, basiclly I made it for myself. However, you might as well use it to save time if you like.
