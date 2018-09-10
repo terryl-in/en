@@ -83,7 +83,9 @@ php7.0-interbase
 
 You can check the modules that are available for PHP 7.0 and install them if needed.
 
-<h2>Install PHP 7.2.9 - Step By Step Guide</h2>
+<h2>Install PHP 7.2.9</h2>
+
+In previous post section, we already know that official repository of Ubuntu 16.04 provides PHP 7.0, not the lastest version.
 
 You have to first install <code>software-properties-common</code>, which is a software written in Python. It provides an abstraction of the used apt repositories, allows you to easily manage your distribution and independent software vendor software sources.
 
