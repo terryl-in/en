@@ -1,6 +1,6 @@
 ---
 ID: 36
-post_title: 'datalayer.js &#8211; Integrate Enhanced Ecommerce Tracking into Google Tag Manager'
+post_title: 'Datalayer.js &#8211; Integrate Enhanced Ecommerce Tracking into Google Tag Manager'
 author: Terry Lin
 post_excerpt: ""
 layout: post
