@@ -4,7 +4,7 @@ post_title: Sample Page
 author: Terry Lin
 post_excerpt: ""
 layout: page
-permalink: https://terryl.in/sample-page/
+permalink: http://wordpress.lo/sample-page/
 published: true
 post_date: 2018-08-04 12:52:52
 ---
