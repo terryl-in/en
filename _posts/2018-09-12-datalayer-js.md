@@ -4,8 +4,8 @@ post_title: 'Datalayer.js &#8211; Integrate Enhanced Ecommerce Tracking into Goo
 author: Terry Lin
 post_excerpt: ""
 layout: post
-permalink: https://terryl.in/en/datalayer-js/
+permalink: http://wordpress.lo/en/datalayer-js/
 published: true
 post_date: 2018-09-12 23:16:44
 ---
-Continue.
+https://youtu.be/RdljoTFMhO4
